@@ -1,0 +1,27 @@
+.login {
+  position: absolute;
+  width: 583px;
+  height: 1040px;
+  left: 277px;
+  top: 0px;
+  align-items: center;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.login-background {
+  position: absolute;
+  width: 100%;
+  height: calc(100vh);
+  /*background-color: red;*/
+  background-size: cover;
+  background-position: center;
+  background-image: url('../images/Login-Imagen.jpg');
+}
+
+.logo-institucion {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
